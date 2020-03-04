@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="about">Muhammad Naufal Rabbani\\n 6706181022 \\nD3IF-42-03</string>
+    <string name="overflow_menu">About</string>
+    <string name="hasil_BMI">Nilai BMI : ....</string>
+    <string name="parameter">IDEAL</string>
+    <string name="lihat_saran">lihat saran</string>
+    <string name="bagikan">bagikan</string>
+    <string name="Bagikan">Bagikan</string>
+</resources>
